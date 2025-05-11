@@ -30,6 +30,6 @@ Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais deta
 
 Caso tenha dúvidas ou precise de suporte, entre em contato:
 
-🌎 Site demonstrativo: [fetads.github.io/ajvclimatiza-o/](fetads.github.io/ajvclimatiza-o/)  
+🌎 Site demonstrativo: [https://fetads.github.io/ajvclimatiza-o/](https://fetads.github.io/ajvclimatiza-o/)  
 
 ---
